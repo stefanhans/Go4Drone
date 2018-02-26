@@ -2,5 +2,4 @@ pipeline:
   deploy:
     image: stefanhans/update-via-docker:1.0.1
     version: 1.0.5
-    privileged: true
     network_mode: host
