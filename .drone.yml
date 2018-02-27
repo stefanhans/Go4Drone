@@ -1,5 +1,5 @@
 pipeline:
   deploy:
     image: stefanhans/drone-deploy-ramped:0.0.1
-    version: 1.0.1
+    version: 1.0.6
     network_mode: host
