@@ -1,5 +1,5 @@
 pipeline:
   deploy:
-    image: stefanhans/update-via-docker:1.0.1
-    version: 1.0.4
+    image: stefanhans/drone-deploy-ramped:0.0.1
+    version: 1.0.0
     network_mode: host
